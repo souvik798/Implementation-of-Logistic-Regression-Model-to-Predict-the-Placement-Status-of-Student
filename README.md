@@ -71,10 +71,9 @@ clf.fit(x_train,y_train)
 clf.score(x_test,y_test)
 # Predicting for random value
 clf.predict([[1	,78.33,	1,	2,	77.48,	2,	86.5,	0,	66.28]])
-
-
 */
 ```
+
 ## Output:
 
 # read csv file:
